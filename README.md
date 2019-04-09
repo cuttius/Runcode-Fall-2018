@@ -1,0 +1,2 @@
+# Runcode-Fall-2018
+This code was written for the runcode.live 2018 coding challenge. The contest site is now closed. I doubt that I will update this code much, if ever, but I figured that I would upload it. It might be interesting to someone. I know that some of this code is sloppy, but I was trying to complete as many challenges as possible in a few hours.

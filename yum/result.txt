@@ -1,0 +1,33 @@
+Erased
+Feb 28 12:52:09 esc-1.1.0-37.el7.x86_64
+Feb 28 12:53:56 coolkey-1.1.0-37.el7.x86_64
+Feb 28 12:53:56 pcsc-lite-1.8.8-6.el7.x86_64
+Feb 28 12:53:57 pcsc-lite-ccid-1.4.10-12.el7.x86_64
+Feb 28 15:08:15 docker-ce-17.12.1.ce-1.el7.centos.x86_64
+Mar 07 09:41:14 atom-1.24.0-0.1.x86_64
+Mar 07 11:28:38 cockpit-storaged-157-1.el7.noarch
+Mar 07 11:28:39 1:atomic-registries-1.20.1-9.git436cf5d.el7.x86_64
+Mar 07 11:28:39 2:container-selinux-2.36-1.gitff95335.el7.noarch
+Mar 07 11:28:39 2:docker-1.12.6-71.git3e8e77d.el7.x86_64
+Updated
+Feb 28 11:27:45 libgcc-4.8.5-16.el7_4.1.x86_64
+Feb 28 11:27:46 1:grub2-common-2.02-0.65.el7_4.2.noarch
+Feb 28 11:27:46 32:bind-license-9.9.4-51.el7_4.2.noarch
+Feb 28 11:27:46 ipa-client-common-4.5.0-22.el7_4.noarch
+Feb 28 11:27:46 ipa-common-4.5.0-22.el7_4.noarch
+Feb 28 11:27:46 python-sssdconfig-1.15.2-50.el7_4.8.noarch
+Feb 28 11:27:46 tzdata-java-2018c-1.el7.noarch
+Feb 28 11:27:47 1:grub2-pc-modules-2.02-0.65.el7_4.2.noarch
+Feb 28 11:27:47 python-rhsm-certificates-1.19.10-1.el7_4.x86_64
+Feb 28 11:27:47 seabios-bin-1.10.2-3.el7_4.1.noarch
+Installed
+Feb 28 11:27:54 1:grub2-tools-minimal-2.02-0.65.el7_4.2.x86_64
+Feb 28 11:28:19 ldns-1.6.16-10.el7.x86_64
+Feb 28 11:28:24 1:grub2-tools-2.02-0.65.el7_4.2.x86_64
+Feb 28 11:28:25 1:grub2-tools-extra-2.02-0.65.el7_4.2.x86_64
+Feb 28 11:28:30 unbound-libs-1.4.20-34.el7.x86_64
+Feb 28 11:28:52 kernel-devel-3.10.0-693.17.1.el7.x86_64
+Feb 28 11:29:02 kernel-3.10.0-693.17.1.el7.x86_64
+Feb 28 11:29:12 1:grub2-2.02-0.65.el7_4.2.x86_64
+Feb 28 11:49:57 lm_sensors-3.4.0-4.20160601gitf9185e5.el7.x86_64
+Feb 28 11:50:47 ipmitool-1.8.18-5.el7.x86_64
